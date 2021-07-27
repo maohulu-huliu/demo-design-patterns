@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "passwordPolicy": {
+      "containLowerCase": "true",
+      "containNumbers": "true",
+      "containSpecial": "true",
+      "containUpperCase": "true",
+      "enabled": "true",
+      "maxAge": "0",
+      "maxLength": "16",
+      "minLength": "8"
+    }
+  }
+}
